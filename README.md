@@ -3,7 +3,8 @@
 • Kalian Pergi Ke Telegram @Ryuuuuui_bot /
 • https://t.me/Ryuuuuui_bot 
 • Kalian Register Dulu Dengan /freeregist 
-Dan Masukan Password 123
+Dan Masukan Kode Otp Yang Sesuai
+Jika Sudah Register Login /bussid 123
 • Akses Free 
 # Feature 
 • Pengisian Cepat Instan Dan Login Menggunakan Id Device 
@@ -13,5 +14,7 @@ Dan Masukan Password 123
 • BUSSID 3.6.1 ( Only To Get X-Auth Token / Device ID )
 
 • SUPPORT UPDATE LATEST VERSION
+# JPG
+![alt text](https://github.com/Ryuuuinih/BussidTopUp/blob/main/IMG_20250328_053405.jpg?raw=true)
 # JPG
 ![alt text](https://github.com/Ryuuuinih/Bussid-Top-Up/blob/main/IMG_20250302_211702.jpg?raw=true)
