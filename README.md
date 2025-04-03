@@ -1,7 +1,7 @@
 # Gelombang-Kedua-Bussid-Top-Up-Free-Akses
 # Tutorial Mendapatkan Akses Free
 • Kalian Pergi Ke Telegram @Ryuuuuui_bot /
-• https://t.me/Ryuuuuui_bot 
+• https://t.me/TopUpBussidByRyuu_bot 
 • Kalian Register Dulu Dengan /freeregist 
 Dan Masukan Kode Otp Yang Sesuai
 Jika Sudah Register Login /bussid 123
